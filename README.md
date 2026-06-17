@@ -87,14 +87,6 @@ This project builds a comprehensive intelligent system that leverages the Stack 
 | Professional Years | 25.8% | 77K | Seniority |
 | Organization Size | 27.1% | 27K | Company scale |
 
-## Project Structure
-
-```
-job_market_intelligence_system/
-├── Job_Market_Intelligence_System.ipynb  # Main notebook
-├── README.md                              # This file
-└── requirements.txt                       # Python dependencies
-```
 
 ## Installation & Setup
 
@@ -164,18 +156,6 @@ Ask questions like:
 - [ ] API endpoint for external integrations
 - [ ] Historical trend analysis
 - [ ] Predictive market forecasting
-
-## Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs and issues
-- Suggest improvements
-- Submit pull requests
-- Share insights and analysis ideas
-
-## License
-
-This project is open source and available under the MIT License.
 
 ## Author
 
